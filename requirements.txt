@@ -1,0 +1,7 @@
+dash=2.6.0
+pandas
+gunicorn
+matplotlib.pyplot
+base64
+io
+nba_api.stats.endpoints
