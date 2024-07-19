@@ -1,7 +1,8 @@
-dash=2.6.0
+dash
+dash-core-components
+dash-html-components
+dash-table
+nba-api
 pandas
+matplotlib
 gunicorn
-matplotlib.pyplot
-base64
-io
-nba_api.stats.endpoints
